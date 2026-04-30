@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "Hello Tanveer 🚀"
+        run: echo "Hello Rocket 🚀"
