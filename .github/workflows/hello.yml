@@ -9,3 +9,6 @@ jobs:
     steps:
       - name: Print message
         run: echo "Hello Rocket 🚀"
+
+      - name: Print message again
+        run: echo "Hello Rocket 🚀"
